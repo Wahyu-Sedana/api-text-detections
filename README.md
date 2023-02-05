@@ -1,10 +1,5 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
 # api-text-detections
 <p>Project ini menggunakan Amazon Rekognition untuk mendeteksi teks dalam gambar. API ini dibangun dengan Node.js dan menggunakan AWS SDK untuk berkomunikasi dengan Rekognition.</p>
-
-<h2><b>Tools</b></h2>
-<i class="fab fa-aws"></i>
-<i class="fab fa-node-js"></i>
 
 <h2><b>Instalasi</b></h2>
 <ol>
